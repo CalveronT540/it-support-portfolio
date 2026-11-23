@@ -51,7 +51,20 @@ A non-responsive intermediate traceroute hop does not necessarily indicate a net
 
 ## Screenshots and Evidence
 
-Screenshots documenting the commands and their outputs are included in the `screenshots` folder.
+### 1. Network Configuration
+![IP Configuration](screenshots/ipconfig-all.png)
+
+### 2. Connectivity Test
+![Ping Test](screenshots/ping-connectivity.png)
+
+### 3. DNS Lookup – Default DNS Server
+![Default DNS Lookup](screenshots/dns-default-server.png)
+
+### 4. DNS Lookup – Google Public DNS
+![Google DNS Lookup](screenshots/dns-google-server.png)
+
+### 5. Traceroute
+![Traceroute Results](screenshots/tracert-google.png).
 
 ## Limitations
 
