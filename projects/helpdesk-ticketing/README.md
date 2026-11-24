@@ -1,53 +1,36 @@
 
 # IT Help Desk Ticketing Simulation
 
-## Project Overview
+## Overview
+A practical IT support ticket-handling exercise completed using Jira Service Management.
 
-This project simulates the daily responsibilities of an IT Support Technician working within a company's internal IT department.
+The scenario involved a fictional Finance employee experiencing a Windows account sign-in problem caused by suspected account lockout.
 
-The simulation focuses on handling employee support requests, documenting technical issues, assigning priorities, troubleshooting problems and recording resolutions using an IT service management platform.
-
-## Organisation
-
-Horizon Technologies (Fictional Organisation)
-
-## Objectives
-
-- Understand the IT help desk ticket lifecycle.
-- Create and manage technical support tickets.
-- Categorise and prioritise incidents.
-- Document troubleshooting procedures.
-- Record resolutions and close completed tickets.
-- Develop practical IT service management skills.
-
-## Tools and Technologies
-
+## Tools Used
 - Jira Service Management
-- Windows operating systems
-- Microsoft 365
-- Networking and troubleshooting utilities
+- Windows troubleshooting concepts
+- Active Directory account management concepts
 
-## Planned Support Scenarios
+## Work Performed
+- Created and managed a support ticket.
+- Gathered information from the simulated employee.
+- Assessed possible causes of the sign-in issue.
+- Identified account lockout as the leading hypothesis.
+- Documented an investigation and verification procedure.
+- Practised account management in a separate training environment.
 
-1. Password reset request.
-2. Locked employee account.
-3. Wi-Fi connectivity issue.
-4. Microsoft Outlook not opening.
-5. Printer connectivity problem.
-6. Slow computer performance.
-7. Software installation request.
-8. Microsoft Teams audio issue.
-9. Shared folder access request.
-10. New employee IT onboarding.
+## Current Status
+The ticket remains In Progress. The account lockout was not independently verified, and no account unlock or successful sign-in was performed.
 
-## Project Status
+## Case Study
 
-In Progress
+[View Windows Account Lockout Case Study](windows-account-lockout-case-study.pdf)
 
-## Evidence and Documentation
+## Skills Demonstrated
+- IT help desk ticket management
+- Customer communication
+- Windows sign-in troubleshooting
+- Active Directory fundamentals
+- Technical documentation
+- Security awareness
 
-Screenshots, ticket records, troubleshooting notes and resolution summaries will be added as the simulation progresses.
-
-## Key Learning Outcomes
-
-To be updated upon completion.
